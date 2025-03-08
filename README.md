@@ -192,3 +192,5 @@ docker run -p 50001:80 frdel/agent-zero-run
 - [Join our Discord](https://discord.gg/B8KZKNsPpj) for live discussions or [visit our Skool Community](https://www.skool.com/agent-zero).
 - [Follow our YouTube channel](https://www.youtube.com/@AgentZeroFW) for hands-on explanations and tutorials
 - [Report Issues](https://github.com/frdel/agent-zero/issues) for bug fixes and features
+
+- Simply open [Lovable](https://lovable.dev/projects/37a1da64-0a01-415f-b59a-cedbacd3bf81) and click on Share -> Publish.
